@@ -30,7 +30,7 @@ public class MsgBoxHelper {
                 }).
                 setNegativeButton("否", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
-                                 dialog.cancel();
+                        dialog.cancel();
                     }
                 }).show();
 
