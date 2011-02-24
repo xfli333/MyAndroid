@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:id="@+id/widget27"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        >
+
+    <TextView
+            android:id="@+id/writetitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="围脖内容"
+            >
+    </TextView>
+
+    <!--<ScrollView-->
+    <!--android:id="@+id/scrollView"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="310px"-->
+    <!--android:scrollbarStyle="outsideOverlay" android:background="@android:drawable/edit_text">-->
+    <EditText
+            android:id="@+id/writecontent"
+            android:layout_width="320px"
+            android:layout_height="190px"
+            android:textSize="18sp"
+            android:inputType="textMultiLine"
+            android:gravity="top"
+            >
+    </EditText>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+        <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+            <Button
+                    android:id="@+id/submit"
+                    android:layout_width="110px"
+                    android:layout_height="wrap_content"
+                    android:text="发表"
+                    >
+            </Button>
+            <Button
+                    android:id="@+id/addPic"
+                    android:layout_width="80px"
+                    android:layout_height="wrap_content"
+                    android:text="添加图片"
+                    >
+            </Button>
+            <Button
+                    android:id="@+id/delPic"
+                    android:layout_width="80px"
+                    android:layout_height="wrap_content"
+                    android:text="删除图片"
+                    >
+            </Button>
+        </LinearLayout>
+        <ImageView
+                android:id="@+id/disPic"
+                android:layout_width="300px"
+                android:layout_height="180px"
+                >
+        </ImageView>
+
+
+    </LinearLayout>
+    <!--</ScrollView>-->
+
+</LinearLayout>

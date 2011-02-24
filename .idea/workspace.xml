@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CCaseConfig">
+    <option name="checkoutReserved" value="false" />
+    <option name="markExternalChangeAsUpToDate" value="true" />
+    <option name="checkInUseHijack" value="true" />
+    <option name="useUcmModel" value="true" />
+    <option name="synchOutside" value="false" />
+    <option name="isHistoryResticted" value="true" />
+    <option name="useIdenticalSwitch" value="true" />
+    <option name="synchActivitiesOnRefresh" value="true" />
+    <option name="lastScr" value="" />
+    <option name="scrTextFileName" value="" />
+    <option name="historyRevisionsNumber" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0600f09c-cdd9-4139-82ad-acf33c0f2727" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-hdpi-v6/app_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-hdpi-v6/live_folder_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-hdpi/app_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-ldpi-v6/app_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-ldpi-v6/live_folder_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-ldpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-mdpi-v6/app_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-mdpi-v6/live_folder_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-mdpi/app_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/drawable-mdpi/live_folder_notes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/libs/commons-httpclient-3.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/libs/javacc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/addressbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/bgg.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/dating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/dbg.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/deletefriend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/friends.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/msn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/write.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/listpicrowback.xmlback" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/NotePad.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/gen/com/example/android/notepad/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/layout/note_editor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/layout/noteslist_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/layout/title_editor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/example/android/notepad/NoteEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/example/android/notepad/NotePad.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/example/android/notepad/NotePadProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/example/android/notepad/NotesList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/example/android/notepad/NotesLiveFolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/example/android/notepad/TitleEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/src/com/google/provider/NotePad.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/tests/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/tests/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NotePad/tests/src/com/example/android/notepad/NotePadTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/SinaWeiBo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/gen/cn/lee/android/sinaweibo/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/anim/activity_close_exit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/anim/activity_open_enter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/baselistview.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/friendsrow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/listpicrow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/listrow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/piclistlayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/piclistrow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/sdcard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/tabwindow.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/titlelayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/viewdetails.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/writecomment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/layout/writeweibowiew.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Adapter/FriendListViewAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Adapter/IconAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Adapter/ImageAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Adapter/PicListAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/BaseListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/FriendsTimeLineListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/LoadImagesFromSDCardActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/LoadedImage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/MainTabWindow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/MyFriendsListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/MyTimeLineListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/PublicTimeLineListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/SinaWeiBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/StatusDetailView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Utils/EncodeUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Utils/ImageUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Utils/WeiBoUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/WriteWeiBoView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/DBHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/MsgBoxHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/MsgCallBack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/UserDBHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/WeiBoHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/WeibOTimeLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/model/UserInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/ui/IconTextView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/AsyncWeibo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Configuration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Count.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/DirectMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Dispatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/IDs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/ListObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/ListObjectWapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/ListUserCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Paging.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Query.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/QueryResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/RateLimitStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/RetweetDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/SavedSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Status.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/StatusListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/StatusStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Trend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Trends.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Tweet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/UserWapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Version.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Weibo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboResponse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboSupport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/AsyncUpdate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/GetDirectMessages.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/GetFriends.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/GetListMembers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/GetListObjects.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/GetListStatuses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/GetTimelines.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/OAuthSetTokenUpdate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/OAuthUpdate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/OAuthUpdateProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/OAuthUpdateTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/OAuthUploadByFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/SendDirectMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/Update.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/examples/WebOAuth.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/AccessToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/BASE64Encoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/FileTypeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/HTMLEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/HttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/ImageItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/MimetypesFileTypeMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/OAuth.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/OAuthToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/PostParameter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/RequestToken.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/Response.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/CDL.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/Cookie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/CookieList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/HTTP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/HTTPTokener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONML.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONStringer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONTokener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/JSONWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/XML.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/org/json/XMLTokener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/util/BareBonesBrowserLaunch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/web/call.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/web/callback.jsp" />
+    </list>
+    <ignored path="MyAndroid.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CoverageDataManager" choice="3" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Status.java" line="369" class="weibo4j.Status" package="weibo4j">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties>
+      <property name="line_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_flattenPackages" value="true" />
+      <property name="method_breakpoints_flattenPackages" value="true" />
+      <property name="field_breakpoints_flattenPackages" value="true" />
+      <property name="exception_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_viewId" value="TABLE" />
+      <property name="field_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_flattenPackages" value="true" />
+      <property name="field_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_groupByClasses" value="true" />
+      <property name="exception_breakpoints_viewId" value="TABLE" />
+      <property name="field_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_groupByMethods" value="false" />
+    </ui_properties>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyAndroid" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Weibo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Weibo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1357" column="7" selection-start="65657" selection-end="65657" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Status.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Status.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="27" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserInfo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/model/UserInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="30" selection-start="449" selection-end="449" vertical-scroll-proportion="-0.46449137">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WriteWeiBoView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/WriteWeiBoView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="18" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/LoadedImage.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Adapter/ImageAdapter.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/LoadImagesFromSDCard.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/LoadImagesFromSDCardActivity.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/res/layout/writeweibowiew.xml" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/FileTypeMap.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/helper/MimetypesFileTypeMap.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/MimetypesFileTypeMap.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/BaseListView.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/HttpClient.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Utils/EncodeUtil.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Weibo.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/WriteWeiBoView.java" />
+        <option value="$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/model/UserInfo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Favorites" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SinaWeiBo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SinaWeiBo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SinaWeiBo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sinaweibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SinaWeiBo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sinaweibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaworkspace\MyAndroid\SinaWeiBo\res\drawable-ldpi" />
+      <recent name="F:\ideaworkspace\MyAndroid\SinaWeiBo\res\layout" />
+      <recent name="F:\ideaworkspace\MyAndroid\SinaWeiBo\res\drawable-mdpi" />
+      <recent name="F:\ideaworkspace\MyAndroid\SinaWeiBo\res\drawable-hdpi" />
+      <recent name="F:\ideaworkspace\MyAndroid\SinaWeiBo\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.SinaWeiBo">
+    <configuration default="false" name="GetTimelines" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="weibo4j.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="weibo4j.examples.GetTimelines" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SinaWeiBo" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="19738" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Update" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="weibo4j.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="weibo4j.examples.Update" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SinaWeiBo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OAuthUpdate" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="weibo4j.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="weibo4j.examples.OAuthUpdate" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SinaWeiBo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OAuthUpdateTwo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="weibo4j.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="weibo4j.examples.OAuthUpdateTwo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SinaWeiBo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WeiBoUtil" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false">
+        <pattern>
+          <option name="PATTERN" value="cn.lee.android.sinaweibo.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.lee.android.sinaweibo.Utils.WeiBoUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SinaWeiBo" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRunConfigurationType" factoryName="PHP">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" adl_options="" air_descriptor_path="" air_program_params="" air_publisher_id="" air_root_dir_path="" air_run_mode="AppDescriptor" browser_family="FIREFOX" class_name="" debugger_sdk="Module SDK" html_or_swf_file_path="" launcher_type="OSDefault" main_class_name="" method_name="" module_name="" output_log_level="" package_name="" player_path="FlashPlayer.exe" port="0" run_mode="HtmlOrSwfFile" run_trusted="false" scope="Class" socket_policy_port="0" url_to_launch="http://">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false">
+          <server_id />
+          <server_name />
+        </option>
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="SinaWeiBo" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="SinaWeiBo" />
+      <option name="ACTIVITY_CLASS" value="cn.lee.android.sinaweibo.SinaWeiBo" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
+      <option name="PREFERRED_AVD" value="AD2.3" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NotePad" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="NotePad" />
+      <option name="ACTIVITY_CLASS" value="com.example.android.notepad.NotesList" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.GetTimelines" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Update" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OAuthUpdate" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OAuthUpdateTwo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WeiBoUtil" />
+      <item index="5" class="java.lang.String" itemvalue="Android Application.SinaWeiBo" />
+      <item index="6" class="java.lang.String" itemvalue="Android Application.NotePad" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion_IDEA</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0600f09c-cdd9-4139-82ad-acf33c0f2727" name="Default" comment="" />
+      <created>1293878221653</created>
+      <updated>1293878221653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="21" width="1366" height="696" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39864865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952815" sideWeight="0.6706081" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954337" sideWeight="0.6013514" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23954372" sideWeight="0.6989247" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30107528" sideWeight="0.37671232" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31899643" sideWeight="0.0" order="12" side_tool="false" content_ui="tabs" x="134" y="471" width="653" height="236" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293919" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32616487" sideWeight="0.0" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/BASE64Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="24" selection-start="2590" selection-end="2603" vertical-scroll-proportion="-1.5765766" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/Utils/EncodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="222" selection-end="234" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/PostParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="40" selection-start="6460" selection-end="6460" vertical-scroll-proportion="0.46546546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="3367" selection-end="3367" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/res/drawable-ldpi/back.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/BaseListView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="3" selection-start="841" selection-end="841" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/FileTypeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="22" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/http/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="533" column="11" selection-start="21202" selection-end="21202" vertical-scroll-proportion="2.7083333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="31" selection-start="2058" selection-end="2058" vertical-scroll-proportion="0.19572954" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/WeiboResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="46" selection-start="3506" selection-end="3506" vertical-scroll-proportion="0.36065573" />
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.lee.android.sinaweibo.model.UserInfo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.lee.android.sinaweibo.model.UserInfo</OriginalElement>
+          <nodes>
+            <node x="0.0" y="381.0">cn.lee.android.sinaweibo.model.UserInfo</node>
+            <node x="14.5" y="0.0">java.lang.Object</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.lee.android.sinaweibo.model.UserInfo" target="java.lang.Object">
+              <point x="0.0" y="-223.5" />
+              <point x="0.0" y="165.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5931603773584906" x="116.0" y="414.0" />
+          <SelectedNodes>
+            <node>cn.lee.android.sinaweibo.model.UserInfo</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Weibo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1357" column="7" selection-start="65657" selection-end="65657" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/weibo4j/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="27" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/model/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="30" selection-start="449" selection-end="449" vertical-scroll-proportion="-0.46449137">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinaWeiBo/src/cn/lee/android/sinaweibo/WriteWeiBoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="18" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions />
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Android 2.3.1 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions />
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

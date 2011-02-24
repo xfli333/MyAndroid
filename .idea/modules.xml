@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NotePad/NotePad.iml" filepath="$PROJECT_DIR$/NotePad/NotePad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinaWeiBo/SinaWeiBo.iml" filepath="$PROJECT_DIR$/SinaWeiBo/SinaWeiBo.iml" />
+    </modules>
+  </component>
+</project>
+

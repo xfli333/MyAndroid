@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+         android:id="@+id/friendsrow"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+    <ImageView
+            android:id="@+id/userIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            >
+    </ImageView>
+    <TextView
+            android:id="@+id/friendName"
+            android:layout_width="217px"
+            android:layout_height="25px"
+            android:textSize="16sp"
+            android:textColor="#FFFF00"
+            android:typeface="normal"
+            android:textStyle="normal"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/userIcon"
+            >
+    </TextView>
+    <TextView
+            android:id="@+id/friendlocation"
+            android:layout_width="217px"
+            android:layout_height="25px"
+            android:textSize="13sp"
+            android:textColor="#FFFF00"
+            android:typeface="normal"
+            android:textStyle="normal"
+            android:layout_alignBottom="@+id/friendName"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/userIcon"
+            >
+    </TextView>
+    <ImageView
+             android:id="@+id/addAction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/deletefriend"
+            >
+    </ImageView>
+</RelativeLayout>

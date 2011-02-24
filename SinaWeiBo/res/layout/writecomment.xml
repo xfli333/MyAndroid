@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:id="@+id/commentLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:background="#000000"
+        xmlns:mobile="http://net.blogjava.mobile"
+        >
+
+    <TextView
+            android:id="@+id/commentTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#778899"
+            android:text="内容"
+            >
+    </TextView>
+
+    <EditText
+            android:id="@+id/commentContent"
+            android:layout_width="320px"
+            android:layout_height="310px"
+            android:textSize="18sp"
+            android:inputType="textMultiLine"
+            android:gravity="top"
+            >
+    </EditText>
+    <cn.lee.android.sinaweibo.ui.IconTextView
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:text="第一个笑脸"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+        <Button
+                android:id="@+id/commentButton"
+                android:layout_width="110px"
+                android:layout_height="wrap_content"
+                android:text="评论"
+                >
+        </Button>
+        <Button
+                android:id="@+id/commentBackButton"
+                android:layout_width="110px"
+                android:layout_height="wrap_content"
+                android:text="返回"
+                >
+        </Button>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="cn.lee.android.sinaweibo"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:label="SinaWeiBo" android:icon="@drawable/icon" android:debuggable="true"
+             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        <activity android:name="SinaWeiBo"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="MainTabWindow" android:label="@string/app_name">
+        </activity>
+        <activity android:name="FriendsTimeLineListView" android:label="@string/app_name">
+        </activity>
+        <activity android:name="MyTimeLineListView" android:label="@string/app_name">
+        </activity>
+        <activity android:name="PublicTimeLineListView" android:label="@string/app_name">
+        </activity>
+        <activity android:name="WriteWeiBoView" android:label="@string/app_name">
+        </activity>
+        <activity android:name="MyFriendsListView" android:label="@string/app_name">
+        </activity>
+        <activity android:name="StatusDetailView" android:label="@string/app_name">
+        </activity>
+        <activity android:name="LoadImagesFromSDCardActivity" android:label="@string/app_name">
+        </activity>
+
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest> 

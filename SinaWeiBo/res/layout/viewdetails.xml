@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="vertical"
+            android:fadingEdge="vertical"
+        >
+    <RelativeLayout
+            android:id="@+id/viewdetails"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            >
+
+        <ImageView
+                android:id="@+id/detailUserPic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                >
+        </ImageView>
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/detailUserPic"
+                >
+            <TextView
+                    android:layout_width="217px"
+                    android:layout_height="30px"
+                    android:text="TextView"
+                    android:textSize="18sp"
+                    android:textColor="#FFFF00"
+                    android:typeface="normal"
+                    android:textStyle="normal"
+                    android:layout_alignParentTop="true"
+                    android:id="@+id/DetailItemTitle"
+                    android:layout_toRightOf="@+id/detailUserPic"
+                    >
+            </TextView>
+
+
+            <TextView
+                    android:id="@+id/detailsUserLocation"
+                    android:layout_width="217px"
+                    android:layout_height="18px"
+                    android:textSize="13sp"
+                    android:textColor="#FFFF00"
+                    android:typeface="normal"
+                    android:textStyle="normal"
+                    android:layout_alignBottom="@+id/DetailItemTitle"
+                    android:layout_toRightOf="@+id/detailUserPic"
+                    >
+            </TextView>
+        </LinearLayout>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textSize="16sp"
+                android:typeface="normal"
+                android:textStyle="normal"
+                android:layout_below="@+id/detailUserPic"
+                android:layout_alignParentLeft="true"
+                android:id="@+id/DetailItemText"
+                >
+        </TextView>
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/DetailItemText"
+                >
+            <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:typeface="normal"
+                    android:textColor="#7EC0EE"
+                    android:textStyle="normal"
+                    android:layout_alignParentLeft="true"
+                    android:id="@+id/detailRetweetText"
+                    android:layout_below="@+id/DetailItemText"
+                    >
+            </TextView>
+            <ImageView
+                    android:id="@+id/detailRetweetPic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/detailRetweetText"
+                    >
+            </ImageView>
+
+
+            <ImageView
+                    android:id="@+id/detailMidPic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_below="@+id/detailRetweetPic"
+                    >
+            </ImageView>
+            <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TextView"
+                    android:textSize="16sp"
+                    android:typeface="normal"
+                    android:textStyle="normal"
+                    android:layout_below="@+id/detailMidPic"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:id="@+id/detailInfos"
+                    >
+            </TextView>
+
+
+
+            <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    >
+                <Button android:id="@+id/detailBack"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="返回"
+                        android:textSize="14sp"
+                        android:typeface="normal"
+                        android:textStyle="normal"
+                        android:layout_x="110px"
+                        android:layout_y="72px"
+                        >
+                </Button>
+                <Button android:id="@+id/attention"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="关注他(她)"
+                        android:textSize="14sp"
+                        android:typeface="normal"
+                        android:textStyle="normal"
+                        android:layout_x="160px"
+                        android:layout_y="72px"
+                        android:layout_toRightOf="@+id/detailBack"
+                        >
+                </Button>
+                <Button android:id="@+id/commentButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="评论/转发"
+                        android:textSize="14sp"
+                        android:typeface="normal"
+                        android:textStyle="normal"
+                        android:layout_x="240px"
+                        android:layout_y="72px"
+                        android:layout_toRightOf="@+id/attention"
+                        >
+                </Button>
+                <Button android:id="@+id/deleteButton"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="删除"
+                        android:textSize="14sp"
+                        android:typeface="normal"
+                        android:textStyle="normal"
+                        android:layout_x="240px"
+                        android:layout_y="72px"
+                        android:layout_toRightOf="@+id/commentButton"
+                        >
+                </Button>
+            </RelativeLayout>
+            <ListView android:layout_width="fill_parent"
+              android:layout_height="160px"
+              android:id="@+id/commentlist"
+            >
+        </ListView>
+
+        </LinearLayout>
+
+        <ProgressBar android:id="@+id/detailProBar"
+                     style="?android:attr/progressBarStyle"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:max="300"
+                     android:layout_centerHorizontal="true"
+                     android:layout_centerVertical="true"
+                     android:visibility="gone">
+        </ProgressBar>
+    </RelativeLayout>
+</ScrollView>
